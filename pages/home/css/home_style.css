@@ -20,9 +20,10 @@ body {
 }
 
 header {
-    width: 100%;
-    height: 100vh;
-    background: url(../../img/njajal.jpg) no-repeat 50% 50%;
+    /* width: 100%;
+    height: 100vh; */
+    /* background: url(../../img/njajal.jpg) no-repeat 50% 50%; */
+    background-color: #fff;
     background-size: cover;
 }
 
@@ -65,7 +66,7 @@ nav ul {
     padding: 0;
     text-align: right;
     margin: 0;
-    padding-right: 40px;
+    padding-right: 46px;
     transition: 1s;
 }
 
@@ -155,7 +156,27 @@ nav a:hover {
     color: #fff;
 }
 
+.penting {
 
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 72px;
+color: #3F3D3D;
+
+}
+
+.tahukah {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+text-align: justify;
+
+color: #626262;
+}
 
 
 
