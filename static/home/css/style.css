@@ -1,0 +1,163 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url(../../global_resource/fonts/Poppins/Poppins-Medium.ttf);
+  }
+
+/* Group 467 */
+.group_467 {
+position: absolute;
+width: 1338px;
+height: 86px;
+left: 89px;
+top: 46px;
+}
+
+
+/* Berita */
+.berita {
+position: absolute;
+width: 71px;
+height: 36px;
+left: 745px;
+top: 73px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* Rectangle 275 */
+.rectangle275 {
+position: absolute;
+width: 176px;
+height: 59px;
+left: 1251px;
+top: 62px;
+
+background: #DA3A53;
+border-radius: 40px;
+}
+
+/* Masuk */
+.masuk {
+position: absolute;
+width: 81px;
+height: 36px;
+left: 1299px;
+top: 73px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+color: #FFFFFF;
+z-index: 1;
+}
+
+
+/* Beranda */
+.beranda {
+position: absolute;
+width: 104px;
+height: 36px;
+left: 558px;
+top: 73px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+color: #DA3A53;
+}
+
+
+/* Forum */
+.forum {
+position: absolute;
+width: 78px;
+height: 36px;
+left: 910px;
+top: 73px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* Kesehatan */
+.kesehatan {
+position: absolute;
+width: 131px;
+height: 36px;
+left: 1068px;
+top: 73px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+color: #000000;
+
+}
+
+/* Group 466 */
+.group_466 {
+position: absolute;
+width: 305px;
+height: 86px;
+left: 89px;
+top: 46px;
+}
+
+
+/* AIDSPedia */
+.AIDSPedia {
+position: absolute;
+width: 253px;
+height: 72px;
+left: 141px;
+top: 53px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 72px;
+/* identical to box height */
+
+color: #DA3A53;
+}
+
+
+/* image 6 */
+.image_6 {
+position: absolute;
+width: 49px;
+height: 86px;
+left: 89px;
+top: 46px;
+
+background: url(../../global_resource/logo1.png);
+}
+
